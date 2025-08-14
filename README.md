@@ -5,4 +5,4 @@ key insights, including demographic distributions by country, preferred programm
 It also measures overall satisfaction levels, focusing on work-life balance and pay. With its interactive and visually engaging design, the dashboard enables 
 users to quickly explore trends, identify patterns, and gain actionable insights into the state of the data profession.
 
-- <a 
+- <a href="https://github.com/Mlinox12/Data-Analysis-Dashboard/blob/main/Power%20BI%20-%20Final%20Project.xlsx">Data Professional survey</a>
