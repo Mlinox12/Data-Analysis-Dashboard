@@ -1,27 +1,28 @@
-# Insights on :
-# Demographics & Geography
-Which countries have the highest number of survey respondents?
-How is the demographic distribution (age, gender, experience) spread across regions?
+# Data Professional Survey Dashboard
 
-# Job Roles & Skills
-What are the most common job roles among data professionals?
-Which programming languages are most popular in the industry?
+This project analyses survey responses from **data professionals** using **Excel**, **SQL**, and **Power BI**.  
+The dataset was cleaned in Excel, transformed with SQL, and visualised in Power BI to highlight key industry insights.  
 
-# Salary Analysis
-How do salaries vary across different job roles?
-Is there a significant salary gap between genders for similar roles?
-Which countries or regions offer the highest average salaries?
+---
 
-# Satisfaction & Work-Life Balance
-How satisfied are respondents with their work-life balance?
-What percentage of professionals are happy with their pay?
+## 📌 Key Insights
+- Demographic and geographic distribution of respondents  
+- Most common job roles and popular programming languages  
+- Salary variations across roles, genders, and regions  
+- Work-life balance and job satisfaction trends  
 
-# About project :
-Does job satisfaction correlate with salary level or job role?
-This Power BI dashboard provides an in-depth breakdown of a survey conducted among data professionals, offering a comprehensive view of the industry landscape.
-The dataset, originally sourced from Excel, was carefully cleaned and prepared to ensure accuracy and consistency before analysis. The dashboard highlights 
-key insights, including demographic distributions by country, preferred programming languages, and detailed salary comparisons segmented by job role and gender. 
-It also measures overall satisfaction levels, focusing on work-life balance and pay. With its interactive and visually engaging design, the dashboard enables 
-users to quickly explore trends, identify patterns, and gain actionable insights into the state of the data profession.
+---
 
-- <a href="https://github.com/Mlinox12/Data-Analysis-Dashboard/blob/main/Power%20BI%20-%20Final%20Project.xlsx">Data Professional survey</a>
+## 📂 Dataset
+- [Data Professional Survey (Excel File)](https://github.com/Mlinox12/Data-Analysis-Dashboard/blob/main/Power%20BI%20-%20Final%20Project.xlsx)  
+
+---
+
+##  Tools Used
+- **Excel** – Data cleaning  
+- **SQL** – Data transformation  
+- **Power BI** – Dashboard visualisation  
+
+---
+
+
